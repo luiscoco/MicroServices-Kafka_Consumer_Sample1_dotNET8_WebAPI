@@ -1,0 +1,6 @@
+@dotNet8WebAPI_Consume_Kafka_JSON_messages_HostAddress = http://localhost:5001
+
+GET {{dotNet8WebAPI_Consume_Kafka_JSON_messages_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
